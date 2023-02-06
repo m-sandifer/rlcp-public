@@ -1,6 +1,6 @@
-Device Name,D3 - 2592884
-Device Model,Kestrel DROP 3
-Serial Number,2592884
+Device Name,D3 - 2592884, , , , , ,
+Device Model,Kestrel DROP 3, , , , ,
+Serial Number,2592884, , , , , ,
 FORMATTED DATE_TIME,Temperature,Relative Humidity,Station Pressure,Heat Index,Dew Point,Density Altitude
 yyyy-MM-dd hh:mm:ss a,°C,%,mb,°C,°C,m,Data Type,Record name,Start time,Duration (H:M:S),Location description,Location address,Location coordinates,Notes
 2000-01-01 12:10:00 AM,23.1,31.0,1009.6,21.6,5.1,359,point
